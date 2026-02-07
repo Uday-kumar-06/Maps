@@ -42,8 +42,5 @@ public class Main {
         list1.sort((a,b) -> b.compareTo(a));
 
         System.out.println(list1);
-
-
-
     }
 }
